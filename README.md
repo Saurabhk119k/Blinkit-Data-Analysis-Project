@@ -153,7 +153,7 @@ Average Ratings: Average customer rating.
  # Report Snapshot (Power BI DESKTOP)
 
  
-![image](https://github.com/user-attachments/assets/0abcab50-3cb5-4b75-8d41-c0e64cd44424)
+![Image](https://github.com/user-attachments/assets/d0943af6-0414-448d-bf1b-2e6fee0e1ae1)
 
 
 
