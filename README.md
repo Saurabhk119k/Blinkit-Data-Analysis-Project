@@ -149,18 +149,6 @@ Average Ratings: Average customer rating.
 2. Adjust data filters, interactions, data labels, and tooltips for smooth user experience.
 
 
- - Step 32 : Publish to Power BI Service.
-
-1. Publish the dashboard to Power BI Service.
-2. Set access permissions for team members and stakeholders.
-3. Test all slicers and interactions to confirm functionality online.
-
-
- 
- 
-![image](https://github.com/user-attachments/assets/65bc8662-dc11-4b35-8742-f73524c8006a)
-
-
 
  # Report Snapshot (Power BI DESKTOP)
 
