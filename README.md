@@ -1,6 +1,5 @@
 # Blinkit-Data-Analysis-with-Power-BI-Dashboard
 
-Dashboard Link: https://github.com/mshivam980/Blinkit-Data-Analysis-with-Power-BI/blob/main/Blinkit%20data%20analysis%20Dashboard.pbix
 
 ## Problem Statement - 8,523 Rows Dataset
 
